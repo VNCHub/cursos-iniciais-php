@@ -1,0 +1,2 @@
+Está frase será colocada dentro do arquivo!
+Está será a segunda frase do arquivo!
