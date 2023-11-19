@@ -13,3 +13,6 @@ Portifólio com cursos iniciais em PHP
 1 - Arrays associativos
 2 - Funções
 3 - Listas
+
+## orientacao-a-objetos-php
+Princiais conceitos de orientação a objetos em PHP
