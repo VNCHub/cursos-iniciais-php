@@ -16,3 +16,7 @@ Portifólio com cursos iniciais em PHP
 
 ## orientacao-a-objetos-php
 Princiais conceitos de orientação a objetos em PHP
+
+## php-arquivos-e-streams
+Decodificação de arquivos, escrever em console, manipulando diretórios, filtros e funções para utilização de streams e Tipos de Streams.
+
