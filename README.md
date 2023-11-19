@@ -8,3 +8,8 @@ Portifólio com cursos iniciais em PHP
 4 - Estrutura de Tomada de decisão
 5 - Strings
 6 - Desafios (Tabuada e Calculo IMC em PHP)
+
+## avancando-no-php
+1 - Arrays associativos
+2 - Funções
+3 - Listas
